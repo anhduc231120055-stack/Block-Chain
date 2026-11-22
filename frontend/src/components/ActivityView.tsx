@@ -75,7 +75,7 @@ export default function ActivityView({ activities, currentBlock, isLoading, onRe
               {activities.length === 0 ? (
                 <tr>
                   <td colSpan={5} className="py-12 text-center text-slate-500 text-xs">
-                    Đang đồng bộ sự kiện từ Blockchain...
+                    {isLoading ? "Đang đồng bộ sự kiện từ Blockchain..." : "Chưa có sự kiện nào được ghi nhận."}
                   </td>
                 </tr>
               ) : (
