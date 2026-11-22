@@ -1,0 +1,13 @@
+{
+  "name": "Warrior of Light #Novice",
+  "description": "Chiến binh sơ cấp đang trong giai đoạn huấn luyện nền tảng. Sử dụng gươm gỗ và trang phục da mộc mạc.",
+  "image": "ipfs://bafybeicgq5v4e7znovicewarriorimagehash/level_1_novice.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Warrior" },
+    { "trait_type": "Evolution Stage", "value": "Novice" },
+    { "display_type": "number", "trait_type": "Level", "value": 1 },
+    { "display_type": "boost_number", "trait_type": "Attack Power", "value": 20 },
+    { "display_type": "boost_number", "trait_type": "Defense", "value": 10 },
+    { "display_type": "boost_number", "trait_type": "Speed", "value": 10 }
+  ]
+}

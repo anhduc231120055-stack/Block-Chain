@@ -1,0 +1,14 @@
+{
+  "network": "localhost",
+  "chainId": 31337,
+  "dynamicNFT": "0xCf7Ed3AccA5a467e9e704C703E8D87F634fB0Fc9",
+  "nftMarketplace": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707",
+  "vrfCoordinator": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "subId": "1",
+  "keyHash": "0x474e34a077df58807dbe9c96d3c009b23b3c6d0cce433e59bbf5b34f823bc56c",
+  "uris": {
+    "1": "ipfs://bafybeicgq5v4e7znovicewarriorimagehash/level_1_novice.json",
+    "2": "ipfs://bafybeih4j2k9meliteknightimagehash/level_2_elite.json",
+    "3": "ipfs://bafybeia8m2p5qlegendaryimagehash/level_3_legendary.json"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "Warrior of Light #Elite Knight",
+  "description": "Chiến binh tinh nhuệ đã vượt qua các thử thách rèn luyện khắc nghiệt. Được trang bị gươm thép bạc và khiên hộ mệnh.",
+  "image": "ipfs://bafybeih4j2k9meliteknightimagehash/level_2_elite.png",
+  "attributes": [
+    { "trait_type": "Class", "value": "Warrior" },
+    { "trait_type": "Evolution Stage", "value": "Elite Knight" },
+    { "display_type": "number", "trait_type": "Level", "value": 2 },
+    { "display_type": "boost_number", "trait_type": "Attack Power", "value": 55 },
+    { "display_type": "boost_number", "trait_type": "Defense", "value": 35 },
+    { "display_type": "boost_number", "trait_type": "Speed", "value": 25 },
+    { "trait_type": "VRF Verified", "value": "Chainlink VRF v2" }
+  ]
+}
