@@ -56,7 +56,7 @@ async function main() {
 
     if (targetLevel >= 3) {
       console.log(`   -> Đang rèn luyện Token #${tokenId} lên 300 EXP (Cấp 3)...`);
-      for (let i = 0; i < 8; i++) {
+      for (let i = 0; i < 12; i++) {
         const trainTx = await dynamicNFT.connect(signer).trainNFT(tokenId);
         await trainTx.wait();
       }
